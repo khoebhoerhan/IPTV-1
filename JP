@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2FzdGVyLnBlLmZyZWN1ZW5jaWFfaWNvbl8xNTgwOTA3NTQ3XzAwNg/icon.png?w=&fakeurl=1" group-title="NACIONAL",LATINA
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2FzdGVyLnBlLmZyZWN1ZW5jaWFfaWNvbl8xNTgwOTA3NTQ3XzAwNg/icon.png?w=&fakeurl=1" group-title="NACIONAL",LATINA HD
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LScwPpq/1610137055980.jpg" group-title="NACIONAL",PANAMERICANA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 
@@ -45,9 +42,6 @@ http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51333
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/1d/f7/ZeWtm6BR_t.png" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0ky
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/1d/f7/ZeWtm6BR_t.png" group-title="DEPORTES",GOL TV HD
-
-
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/84/32/wNXmKPJD_t.jpg" group-title="DEPORTES",CIUDAD MAGICA TV
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
@@ -62,9 +56,6 @@ http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/58695
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" group-title="DEPORTES",TyC SPORTS
 http://45.179.140.242:8000/play/a0k7
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" group-title="DEPORTES",TyC SPORTS HD
-
 
 #EXTINF:-1 tvg-logo="https://boldspicynews.com/wp-content/uploads/2010/10/espn.jpg" group-title="DEPORTES",ESPN
 http://45.179.140.242:8000/play/a0ie
