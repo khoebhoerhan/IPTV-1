@@ -1,0 +1,144 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2FzdGVyLnBlLmZyZWN1ZW5jaWFfaWNvbl8xNTgwOTA3NTQ3XzAwNg/icon.png?w=&fakeurl=1" group-title="NACIONAL",LATINA
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2FzdGVyLnBlLmZyZWN1ZW5jaWFfaWNvbl8xNTgwOTA3NTQ3XzAwNg/icon.png?w=&fakeurl=1" group-title="NACIONAL",LATINA HD
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LScwPpq/1610137055980.jpg" group-title="NACIONAL",PANAMERICANA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/8a/34/qoRT69D4_t.png" group-title="NACIONAL",TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/85/67/Zct7HCGX_t.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/39/44/MiGUN3mv_t.jpg" group-title="NACIONAL",WILLAX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQYycgf/Polish-20211126-010029463.png" group-title="NACIONAL",ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="NOTICIAS",ATV+
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/e3/6f/111315/1/c300.png" group-title="NOTICIAS",EXITOSA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RPTKXN/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="NOTICIAS",CANAL N
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51347
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/06/a7/hrVtVkfa_t.png" group-title="NACIONAL",PERU MAGICO
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51336
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/b3/16/vwDFZ49C_t.png" group-title="NACIONAL",MOVISTAR PLUS
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51339
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/86/5b/d16hjeMA_t.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51340
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SfPwJmm/13522073-1031484876929577-5628482127750923638-n.png" group-title="DEPORTES",GOL PERU
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51333
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/1d/f7/ZeWtm6BR_t.png" group-title="DEPORTES",GOL TV
+http://45.179.140.242:8000/play/a0ky
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/1d/f7/ZeWtm6BR_t.png" group-title="DEPORTES",GOL TV HD
+
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/84/32/wNXmKPJD_t.jpg" group-title="DEPORTES",CIUDAD MAGICA TV
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://deportes24.live/wp-content/uploads/2021/04/BEING-SPORT-XTRA-n.png" group-title="DEPORTES",BEIN SPORTS EXTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwd3zQ/ea79c133260599-Y3-Jvc-Cw2-ODUs-NTM2-LDE1-Nywx-Mw-2.png" group-title="DEPORTES",CLARO SPORTS
+https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7S7Wi3bRI6i2GC_KBX3BPajduwGP0tryii2QtGg=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",TUDN
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/58695
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" group-title="DEPORTES",TyC SPORTS
+http://45.179.140.242:8000/play/a0k7
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" group-title="DEPORTES",TyC SPORTS HD
+
+
+#EXTINF:-1 tvg-logo="https://boldspicynews.com/wp-content/uploads/2010/10/espn.jpg" group-title="DEPORTES",ESPN
+http://45.179.140.242:8000/play/a0ie
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=ba73c53f2f5605d81565d33a625c9be1-4615549-images-thumbs&n=13" group-title="DEPORTES",ESPN 2
+http://45.179.140.242:8000/play/a0id
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UHfy8aYqTcI/Xn3A9IkyN5I/AAAAAAAAM2w/DXeeRphAJkAc9rqjnXUxlGnF4RFIUFG0gCLcBGAsYHQ/s1600/espn3.jpg" group-title="DEPORTES",ESPN 3
+http://45.179.140.242:8000/play/a0je
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ks6Pts6/Polish-20211125-001827100-2.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg" group-title="DEPORTES",TNT SPORTS
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t7w215/Polish-20211126-013440198.png" group-title="DEPORTES",DIRECTV SPORTS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x3Bsgym/Polish-20211126-013134945.png" group-title="DEPORTES",DIRECTV SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTShzM_05XJI1iuDfU83sFpWyw_vc6LCw38H4gJsixEUDhwN39zkJttClo-g05D6QeX8&usqp=CAU" group-title="DEPORTES",DAZN 1
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29270
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPgVNPs/Polish-20211126-014757466.png" group-title="DEPORTES",LA LIGA TV BAR
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29303
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhYnNJj/Polish-20211117-184636258.jpg" group-title="DEPORTES",MOVISTAR LA LIGA
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29300
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xtggct4/Polish-20211117-185029922.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/52422
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/26MNJk8/Polish-20211123-195757121.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 1
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/2594
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXSMXh3/Polish-20211123-195522972.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 2
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/52424
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/3d/8b/5vEegLmB_o.jpg" group-title="DEPORTES",#VAMOS
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29313
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCyC9tV/Polish-20211126-011704772.jpg" group-title="ANIME",BITME
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/39528
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPbN72P/images-2.jpg" group-title="ANIME",PLUTO TV ANIME
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/15c25b0702160d6139a1aa50b442ab2a.webp" group-title="ANIME",ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image50385008845.jpg" group-title="ANIME",ENERGEEK
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tVYHhP/imgs-touch-1-2.jpg" group-title="24/7",DRAGON BALL SUPER
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXa7QKfYhiwTrB0cR7Xbh9NzBpUDBlBpmkbA&usqp=CAU" group-title="24/7",LOS SIMPSON
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axfans.com/images/upload/quiz/p750%C3%97750/202104121206361981.jpg" group-title="24/7",FUTURAMA
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/175?cb=20210717040646" group-title="JAPON",FUJI TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/250?cb=20200402105937" group-title="JAPON",TBS
+https://tbs.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Gf_nhk_logo_gray.svg/revision/latest/scale-to-width-down/300?cb=20200402222538&path-prefix=es" group-title="JAPON",NHK
+https://nhk1.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528" group-title="JAPON",NTV
+https://ntv1.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
