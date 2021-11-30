@@ -67,16 +67,16 @@ http://45.179.140.242:8000/play/a0id
 http://45.179.140.242:8000/play/a0je
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ks6Pts6/Polish-20211125-001827100-2.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
-
+http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/385.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg" group-title="DEPORTES",TNT SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6t7w215/Polish-20211126-013440198.png" group-title="DEPORTES",DIRECTV SPORTS
-
+http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/382.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3Bsgym/Polish-20211126-013134945.png" group-title="DEPORTES",DIRECTV SPORTS 2
-
+http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/383.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTShzM_05XJI1iuDfU83sFpWyw_vc6LCw38H4gJsixEUDhwN39zkJttClo-g05D6QeX8&usqp=CAU" group-title="DEPORTES",DAZN 1
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29270
@@ -112,13 +112,13 @@ http://azxtv.com/hls/stream.m3u8
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tVYHhP/imgs-touch-1-2.jpg" group-title="24/7",DRAGON BALL SUPER
-
+http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/413.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXa7QKfYhiwTrB0cR7Xbh9NzBpUDBlBpmkbA&usqp=CAU" group-title="24/7",LOS SIMPSON
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/414.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.axfans.com/images/upload/quiz/p750%C3%97750/202104121206361981.jpg" group-title="24/7",FUTURAMA
-
+http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/412.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/175?cb=20210717040646" group-title="JAPON",FUJI TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
