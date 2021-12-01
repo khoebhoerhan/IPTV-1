@@ -45,9 +45,6 @@ http://45.179.140.242:8000/play/a0ky
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/84/32/wNXmKPJD_t.jpg" group-title="DEPORTES",CIUDAD MAGICA TV
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://deportes24.live/wp-content/uploads/2021/04/BEING-SPORT-XTRA-n.png" group-title="DEPORTES",BEIN SPORTS EXTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwd3zQ/ea79c133260599-Y3-Jvc-Cw2-ODUs-NTM2-LDE1-Nywx-Mw-2.png" group-title="DEPORTES",CLARO SPORTS
 https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
 
@@ -77,6 +74,12 @@ http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3Bsgym/Polish-20211126-013134945.png" group-title="DEPORTES",DIRECTV SPORTS 2
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Prh0w0B/Polish-20211201-145531388.png" group-title="DEPORTES",BEIN SPORTS
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/24338
+
+#EXTINF:-1 tvg-logo="https://deportes24.live/wp-content/uploads/2021/04/BEING-SPORT-XTRA-n.png" group-title="DEPORTES",BEIN SPORTS EXTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTShzM_05XJI1iuDfU83sFpWyw_vc6LCw38H4gJsixEUDhwN39zkJttClo-g05D6QeX8&usqp=CAU" group-title="DEPORTES",DAZN 1
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29270
