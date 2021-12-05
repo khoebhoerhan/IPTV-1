@@ -125,9 +125,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDImoLGYiQfeUHrz68qaqr6ogjC0B2KLjcDA&usqp=CAU" group-title="ANIME",ANIMAX
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/50122
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDImoLGYiQfeUHrz68qaqr6ogjC0B2KLjcDA&usqp=CAU" group-title="ANIME",ANIMAX
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/71100
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/175?cb=20210717040646" group-title="JAPON",FUJI TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 
