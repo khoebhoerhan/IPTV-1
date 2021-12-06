@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2FzdGVyLnBlLmZyZWN1ZW5jaWFfaWNvbl8xNTgwOTA3NTQ3XzAwNg/icon.png?w=&fakeurl=1" group-title="NACIONAL",LATINA
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBpPTgRcmHOGIwvYuxL1DkN9PnqSv2eSlrA&usqp=CAU" group-title="NACIONAL",AMERICA TV
+http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51350
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LScwPpq/1610137055980.jpg" group-title="NACIONAL",PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
