@@ -30,9 +30,6 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RPTKXN/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="NOTICIAS",CANAL N
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51347
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/b3/16/vwDFZ49C_t.png" group-title="NACIONAL",MOVISTAR PLUS
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51339
-
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/86/5b/d16hjeMA_t.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51340
 
@@ -52,7 +49,7 @@ https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/58695
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" group-title="DEPORTES",TyC SPORTS
-http://45.179.140.242:8000/play/a0k7
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/24374
 
 #EXTINF:-1 tvg-logo="https://boldspicynews.com/wp-content/uploads/2010/10/espn.jpg" group-title="DEPORTES",ESPN
 http://45.179.140.242:8000/play/a0ie
@@ -67,7 +64,7 @@ http://45.179.140.242:8000/play/a0je
 http://45.179.140.242:8000/play/a0jo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ks6Pts6/Polish-20211125-001827100-2.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
-
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36671
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg" group-title="DEPORTES",TNT SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
