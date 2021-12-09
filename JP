@@ -63,6 +63,9 @@ http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5FP6mqc/Polish-20211207-165805637.jpg" group-title="DEPORTES",ESPN 4
 http://45.179.140.242:8000/play/a0jo
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E7AEXF5gyx89oMLTgPLODn6NyjscADlQCg&usqp=CAU" group-title="DEPORTES",ESPN EXTRA
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/12698
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ks6Pts6/Polish-20211125-001827100-2.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36671
 
