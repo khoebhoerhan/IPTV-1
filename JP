@@ -87,25 +87,25 @@ http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29270
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29303
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",MOVISTAR LA LIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29300
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",MOVISTAR LA LIGA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",M. LA LIGA 2
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29255
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29219
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/2594
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 2
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/52424
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29313
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXa7QKfYhiwTrB0cR7Xbh9NzBpUDBlBpmkbA&usqp=CAU" group-title="24/7",LOS SIMPSON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
