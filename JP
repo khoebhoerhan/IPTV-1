@@ -1,146 +1,138 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2FzdGVyLnBlLmZyZWN1ZW5jaWFfaWNvbl8xNTgwOTA3NTQ3XzAwNg/icon.png?w=&fakeurl=1" group-title="NACIONAL",LATINA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWP8cx3/Polish-20211208-042822206.jpg" group-title="NACIONAL",LATINA
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBpPTgRcmHOGIwvYuxL1DkN9PnqSv2eSlrA&usqp=CAU" group-title="NACIONAL",AMERICA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51350
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LScwPpq/1610137055980.jpg" group-title="NACIONAL",PANAMERICANA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwGn1NW/Polish-20211208-042528504.jpg" group-title="NACIONAL",PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsnhCz/Polish-20211203-005617360.png" group-title="NACIONAL",TV PERU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PhQFZSB/Polish-20211203-002503096.png" group-title="NOTICIAS",TV PERU NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JkkbCvN/Polish-20211208-000102915.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/39/44/MiGUN3mv_t.jpg" group-title="NACIONAL",WILLAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQYycgf/Polish-20211126-010029463.png" group-title="NACIONAL",ATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="NOTICIAS",ATV+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P989bbv/Polish-20211208-001709386.jpg" group-title="NOTICIAS",ATV+
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/e3/6f/111315/1/c300.png" group-title="NOTICIAS",EXITOSA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1RPTKXN/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="NOTICIAS",CANAL N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6DbKLbz/Polish-20211207-235737682.jpg" group-title="NOTICIAS",CANAL N
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51347
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/86/5b/d16hjeMA_t.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51340
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SfPwJmm/13522073-1031484876929577-5628482127750923638-n.png" group-title="DEPORTES",GOL PERU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51343
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/1d/f7/ZeWtm6BR_t.png" group-title="DEPORTES",GOL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0ky
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/84/32/wNXmKPJD_t.jpg" group-title="DEPORTES",CIUDAD MAGICA TV
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwd3zQ/ea79c133260599-Y3-Jvc-Cw2-ODUs-NTM2-LDE1-Nywx-Mw-2.png" group-title="DEPORTES",CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
 https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7S7Wi3bRI6i2GC_KBX3BPajduwGP0tryii2QtGg=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",TUDN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4Vf4Tv/Polish-20211207-231513075.jpg" group-title="DEPORTES",TUDN
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/58695
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm11c3Rtb2JpbGUudHljbXVuZGlhbF9pY29uXzE1OTAxMzk5NDhfMDQ5/icon.png?w=&fakeurl=1" group-title="DEPORTES",TyC SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/24374
 
-#EXTINF:-1 tvg-logo="https://boldspicynews.com/wp-content/uploads/2010/10/espn.jpg" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
 http://45.179.140.242:8000/play/a0ie
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PcdXWzJ/Polish-20211207-165635044.jpg" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMVPGFr/Polish-20211207-165635044.jpg" group-title="DEPORTES",ESPN 2
 http://45.179.140.242:8000/play/a0id
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t41MbpB/Polish-20211207-165732250.jpg" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QdrjGh2/Polish-20211207-165732250.jpg" group-title="DEPORTES",ESPN 3
 http://45.179.140.242:8000/play/a0je
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FP6mqc/Polish-20211207-165805637.jpg" group-title="DEPORTES",ESPN 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5JhsFn/Polish-20211207-165805637.jpg" group-title="DEPORTES",ESPN 4
 http://45.179.140.242:8000/play/a0jo
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E7AEXF5gyx89oMLTgPLODn6NyjscADlQCg&usqp=CAU" group-title="DEPORTES",ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/12698
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ks6Pts6/Polish-20211125-001827100-2.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZG19nR5/Polish-20211208-234003798.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36671
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg" group-title="DEPORTES",TNT SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6t7w215/Polish-20211126-013440198.png" group-title="DEPORTES",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/59034
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x3Bsgym/Polish-20211126-013134945.png" group-title="DEPORTES",DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/59032
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Prh0w0B/Polish-20211201-145531388.png" group-title="DEPORTES",BEIN SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/30061
 
-#EXTINF:-1 tvg-logo="https://deportes24.live/wp-content/uploads/2021/04/BEING-SPORT-XTRA-n.png" group-title="DEPORTES",BEIN SPORTS EXTRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTShzM_05XJI1iuDfU83sFpWyw_vc6LCw38H4gJsixEUDhwN39zkJttClo-g05D6QeX8&usqp=CAU" group-title="DEPORTES",DAZN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29270
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yQfvG5R/Polish-20211129-233209253.jpg" group-title="DEPORTES",LA LIGA TV BAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29303
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhYnNJj/Polish-20211117-184636258.jpg" group-title="DEPORTES",MOVISTAR LA LIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",MOVISTAR LA LIGA
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29300
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="DEPORTES",MOVISTAR LA LIGA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",MOVISTAR LA LIGA 2
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29255
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xtggct4/Polish-20211117-185029922.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29219
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/26MNJk8/Polish-20211123-195757121.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 1
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/2594
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HXSMXh3/Polish-20211123-195522972.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES 2
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/52424
 
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/3d/8b/5vEegLmB_o.jpg" group-title="DEPORTES",#VAMOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29313
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tVYHhP/imgs-touch-1-2.jpg" group-title="24/7",DRAGON BALL SUPER
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXa7QKfYhiwTrB0cR7Xbh9NzBpUDBlBpmkbA&usqp=CAU" group-title="24/7",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.axfans.com/images/upload/quiz/p750%C3%97750/202104121206361981.jpg" group-title="24/7",FUTURAMA
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/15c25b0702160d6139a1aa50b442ab2a.webp" group-title="ANIME",ANIME ZONE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image50385008845.jpg" group-title="ANIME",ENERGEEK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCyC9tV/Polish-20211126-011704772.jpg" group-title="ANIME",BITME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/39528
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QPbN72P/images-2.jpg" group-title="ANIME",PLUTO TV ANIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDImoLGYiQfeUHrz68qaqr6ogjC0B2KLjcDA&usqp=CAU" group-title="ANIME",ANIMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
 http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/50122
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/175?cb=20210717040646" group-title="JAPON",FUJI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/250?cb=20200402105937" group-title="JAPON",TBS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 https://tbs.mov3.co/hls/tbs.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Gf_nhk_logo_gray.svg/revision/latest/scale-to-width-down/300?cb=20200402222538&path-prefix=es" group-title="JAPON",NHK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK
 https://nhk1.mov3.co/hls/nhk.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528" group-title="JAPON",NTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv1.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
