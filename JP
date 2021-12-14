@@ -135,6 +135,27 @@ https://nhk1.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv1.mov3.co/hls/ntv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x01
+https://www2237.ff-05.com/token=6SGZ13XJaSrrMYkIhvfirw/1639472342/2800:200::/142/2/5f/95c36f05205434cea70091e0e10405f2-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x02
+https://www451.ff-01.com/token=EtJpileBA76VH01nNmBxwQ/1639472395/2800:200::/140/d/22/23a18317a9a2022cbba03c7668d7622d-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x03
+https://www776.ff-02.com/token=BTzQUG8rJaI5I0xeAGNPZg/1639472442/2800:200::/145/4/c8/6e88d0127195ce52bc6be316613e1c84-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x04
+https://www1126.ff-03.com/token=YyfbiZC9iLXp2b3He-qXww/1639472512/2800:200::/138/b/1d/8bc01a6040f92a2b4cb896709b1041db-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x05
+https://www685.ff-02.com/token=TXOsOuaUf8bbIviYj3rO3w/1639472552/2800:200::/141/6/95/76dae973d40650ce035a1256fce70956-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x06
+https://www148.ff-01.com/token=wVLr_loWpBRhHmrVJJRF6Q/1639472589/2800:200::/143/d/5f/e513ad34c633fc04772fc9cb18ccb5fd-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x07
+https://www620.ff-02.com/token=ol229iZeTvYy9-oNyyHMbg/1639472628/2800:200::/140/1/19/661bd9a454610e197a434edc25400191-720p.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x08
 https://www971.ff-02.com/token=WgQV4PCZlzld-rbzdUzHfw/1639468255/2800:200::/145/2/43/9d91783e6ee51f8de4c0f1036a61b432-720p.mp4
 
