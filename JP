@@ -135,6 +135,8 @@ https://nhk1.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv1.mov3.co/hls/ntv.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",1x11
+https://www640.ff-02.com/token=DAmmjVlPMpoRmUtT0X4PIw/1639552052/2800:200::/140/3/77/b2ed41064d1828a10b98e4c6e515b773-720p.mp4
+
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
