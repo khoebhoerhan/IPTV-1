@@ -37,7 +37,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
-http://45.179.140.242:8000/play/a0ky
+http://45.179.140.242:8000/play/a0l8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
 https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
@@ -70,13 +70,13 @@ http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36671
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/39935
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/39937
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS
-
+http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/24338
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
