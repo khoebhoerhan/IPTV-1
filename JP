@@ -203,5 +203,7 @@ https://www1821.ff-04.com/token=yS0qTtXv8y2ri2BanCN9qw/1639731242/2800:200::/138
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0D1uqTPkie7jFyZ2MvAm7rb0HjZZrzCZ4Mg&usqp=CAU" group-title="LA TEORIA DEL BIG BANG",1x01
 
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",CBS
+https://h2.ustvgo.la/CBS/myStream/chunks.m3u8?nimblesessionid=135893644&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMSA1OjAzOjU0IEFNJmhhc2hfdmFsdWU9NHlvbkdFeGZua0J5MVhHS3FIQ3l6QT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
