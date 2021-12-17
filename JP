@@ -4,7 +4,7 @@
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51350
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
@@ -28,13 +28,13 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6DbKLbz/Polish-20211207-235737682.jpg" group-title="NOTICIAS",CANAL N
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51347
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51340
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/51343
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0ky
@@ -43,7 +43,7 @@ http://45.179.140.242:8000/play/a0ky
 https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4Vf4Tv/Polish-20211207-231513075.jpg" group-title="DEPORTES",TUDN
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/58695
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/24374
@@ -70,40 +70,43 @@ http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36671
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/36670
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/59034
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/59032
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/30061
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29270
+http://iptv.ndasat.com:88/932882172668015/932882172668015/19235
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29303
+http://iptv.ndasat.com:88/932882172668015/932882172668015/32
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29300
+http://iptv.ndasat.com:88/932882172668015/932882172668015/1590
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",M. LA LIGA 2
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29255
+http://iptv.ndasat.com:88/932882172668015/932882172668015/2756
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4JDGGMx/Polish-20211210-010710617.jpg" group-title="DEPORTES",M. LA LIGA 3
+http://iptv.ndasat.com:88/932882172668015/932882172668015/21955
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29219
+http://iptv.ndasat.com:88/932882172668015/932882172668015/578
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/2594
+http://iptv.ndasat.com:88/932882172668015/932882172668015/2738
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 2
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/52424
+http://iptv.ndasat.com:88/932882172668015/932882172668015/2696
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/29313
+http://iptv.ndasat.com:88/932882172668015/932882172668015/1591
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
@@ -121,7 +124,7 @@ http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/39528
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
-http://meu02.cularu.com:8880/SLD14M2N51420/NE6V6UFGfA/50122
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
@@ -204,6 +207,6 @@ https://www1821.ff-04.com/token=yS0qTtXv8y2ri2BanCN9qw/1639731242/2800:200::/138
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0D1uqTPkie7jFyZ2MvAm7rb0HjZZrzCZ4Mg&usqp=CAU" group-title="LA TEORIA DEL BIG BANG",1x01
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmkcENtxd1APuJ0mA7vUgT5Qltmqe4FpJCQ&usqp=CAU" group-title="USA",CBS
-https://h2.ustvgo.la/CBS/myStream/chunks.m3u8?nimblesessionid=135893644&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMSA1OjAzOjU0IEFNJmhhc2hfdmFsdWU9NHlvbkdFeGZua0J5MVhHS3FIQ3l6QT09JnZhbGlkbWludXRlcz0yNDA=
+
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
