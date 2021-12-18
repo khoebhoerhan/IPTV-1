@@ -114,6 +114,9 @@ http://iptv.ndasat.com:88/932882172668015/932882172668015/1591
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/48.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
 
