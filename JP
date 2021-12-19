@@ -91,7 +91,7 @@ http://iptv.ndasat.com:88/932882172668015/932882172668015/19235
 http://iptv.ndasat.com:88/932882172668015/932882172668015/32
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
-http://iptv.ndasat.com:88/932882172668015/932882172668015/1590
+http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/267.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",M. LA LIGA 2
 http://iptv.ndasat.com:88/932882172668015/932882172668015/2756
@@ -146,74 +146,6 @@ https://nhk1.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv1.mov3.co/hls/ntv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x01
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x02
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x03
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x04
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x05
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x06
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x07
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x08
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x09
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x10
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x11
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x12
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x13
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x14
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x15
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x16
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x17
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x18
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x19
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x20
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x21
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3wdthw/images-3.jpg" group-title="EL JOVEN SHELDON",2x22
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0D1uqTPkie7jFyZ2MvAm7rb0HjZZrzCZ4Mg&usqp=CAU" group-title="LA TEORIA DEL BIG BANG",1x01
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmkcENtxd1APuJ0mA7vUgT5Qltmqe4FpJCQ&usqp=CAU" group-title="USA",CBS
 
