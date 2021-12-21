@@ -4,7 +4,7 @@
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/24.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
@@ -28,16 +28,16 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6DbKLbz/Polish-20211207-235737682.jpg" group-title="NOTICIAS",CANAL N
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/27.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP TV
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/31.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/25.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/23.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0l8
@@ -46,7 +46,7 @@ http://45.179.140.242:8000/play/a0l8
 https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4Vf4Tv/Polish-20211207-231513075.jpg" group-title="DEPORTES",TUDN
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/151.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/24374
@@ -67,10 +67,10 @@ http://45.179.140.242:8000/play/a0jo
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/12698
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZG19nR5/Polish-20211208-234003798.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/235.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/137.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
 http://54.39.51.30:25461/brasu2001ar/ZV4OT2LFaZ/39935
@@ -115,7 +115,7 @@ http://iptv.ndasat.com:88/932882172668015/932882172668015/1591
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
-http://tvplayer.ga:8080/live/Q9Oj3cgxkk/euGqOlzR8l78/48.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
