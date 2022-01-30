@@ -64,7 +64,7 @@ http://45.179.140.242:8000/play/a0je
 http://45.179.140.242:8000/play/a0jo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/11128.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZG19nR5/Polish-20211208-234003798.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75352.ts
@@ -122,6 +122,9 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
 http://soberon.us:25461/new/soberonbull/2926
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
+http://soberon.us:25461/new/soberonbull/2925
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
