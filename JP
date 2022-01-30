@@ -37,7 +37,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/68826.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0l8
@@ -73,13 +73,13 @@ http://45.179.140.242:8000/play/a0jo
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/11454.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/9984.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/73635.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
@@ -91,7 +91,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/70229.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",M. LA LIGA 2
 
@@ -100,7 +100,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/70162.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
 
@@ -110,6 +110,12 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2252nY/Polish-20220129-192304128.jpg" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/72945.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
+http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/72946.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
