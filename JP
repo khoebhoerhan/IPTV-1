@@ -37,7 +37,7 @@ http://soberon.us:25461/new/soberonbull/1196
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/10366.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/68826.ts
+http://soberon.us:25461/new/soberonbull/463
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0l8
@@ -64,22 +64,22 @@ http://45.179.140.242:8000/play/a0je
 http://45.179.140.242:8000/play/a0jo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/11128.ts
+http://soberon.us:25461/new/soberonbull/93
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZG19nR5/Polish-20211208-234003798.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75352.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75799.ts
+http://soberon.us:25461/new/soberonbull/3282
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/11454.ts
+http://soberon.us:25461/new/soberonbull/3219
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/9984.ts
+http://soberon.us:25461/new/soberonbull/1048
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/73635.ts
+http://soberon.us:25461/new/soberonbull/57
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
@@ -122,6 +122,9 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
 http://soberon.us:25461/new/soberonbull/2926
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VN1X3xb/Polish-20220130-220700854.jpg" group-title="24/7",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
 http://soberon.us:25461/new/soberonbull/2925
