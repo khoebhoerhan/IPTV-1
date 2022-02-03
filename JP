@@ -138,6 +138,9 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKmNhC0/Polish-20211217-163931889.jpg" group-title="ANIME",TOONIZAKI
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
+https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
 
