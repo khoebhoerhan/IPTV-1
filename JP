@@ -165,13 +165,13 @@ http://50.7.74.29:8880/hlsok/j00010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 http://50.7.74.29:8880/hlsok/j00031/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
 http://50.7.74.29:8880/hlsok/j00033/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 http://50.7.74.29:8880/hlsok/j00004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
 http://50.7.74.29:8880/hlsok/j00012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
