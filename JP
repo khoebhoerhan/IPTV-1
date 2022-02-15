@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWP8cx3/Polish-20211208-042822206.jpg" group-title="NACIONAL",LATINA
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+http://soberon.us:25461/bullnew/soberonnew/461
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
 http://soberon.us:25461/bullnew/soberonnew/459
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+http://soberon.us:25461/bullnew/soberonnew/462
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
@@ -76,7 +76,7 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/75352.ts
 http://soberon.us:25461/bullnew/soberonnew/3282
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://soberon.us:25461/bullnew/soberonnew/3219
+http://soberon.us:25461/bullnew/soberonnew/3281
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
 http://soberon.us:25461/bullnew/soberonnew/1048
