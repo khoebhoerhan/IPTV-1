@@ -129,6 +129,9 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/72946.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
 http://soberon.us:25461/bullnew/soberonnew/2926
 
@@ -145,13 +148,13 @@ http://soberon.us:25461/bullnew/soberonnew/2925
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
-https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1598561159.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
-http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/58481.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
