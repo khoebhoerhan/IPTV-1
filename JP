@@ -30,7 +30,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6DbKLbz/Polish-20211207-235737682.jpg" group-title="NOTICIAS",CANAL N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLm3Snn/Polish-20220222-151346841.jpg" group-title="NOTICIAS",CANAL N
 http://soberon.us:25461/bullnew/soberonnew/1117
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP TV
@@ -149,6 +149,9 @@ http://soberon.us:25461/bullnew/soberonnew/2925
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
+https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w43576142.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 
