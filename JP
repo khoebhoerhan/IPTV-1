@@ -198,13 +198,13 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmkcENtxd1APuJ0mA7vUgT5Qltmqe4FpJCQ&usqp=CAU" group-title="USA",CBS
 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",FRANCE 24
+#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",CNN
+#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",CNN
 http://soberon.us:25461/bullnew/soberonnew/67
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",RT
+#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
