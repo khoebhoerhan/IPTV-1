@@ -198,16 +198,16 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmkcENtxd1APuJ0mA7vUgT5Qltmqe4FpJCQ&usqp=CAU" group-title="USA",CBS
 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",FRANCE 24
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5Z6WCo0t6nV9dkaSIDghYjhgRB5OlSJ97g&usqp=CAU" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",CNN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7qU1UjYcRGSw4RX8-RnJvUnNE4rE0Eqszg&usqp=CAU" group-title="INTERNACIONAL",CNN
 http://soberon.us:25461/bullnew/soberonnew/67
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",RT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXkAPmUaRbmCU7JE75z3KmVUMPnWJQE7xMg&usqp=CAU" group-title="INTERNACIONAL",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="INTERNACIONAL",T13
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/T13_icon_simulation-2021.png/revision/latest?cb=20210301143430" group-title="INTERNACIONAL",T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
