@@ -198,7 +198,7 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmkcENtxd1APuJ0mA7vUgT5Qltmqe4FpJCQ&usqp=CAU" group-title="USA",CBS
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5Z6WCo0t6nV9dkaSIDghYjhgRB5OlSJ97g&usqp=CAU" group-title="INTERNACIONAL",FRANCE 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxfPwsh/images-2.png" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7qU1UjYcRGSw4RX8-RnJvUnNE4rE0Eqszg&usqp=CAU" group-title="INTERNACIONAL",CNN
