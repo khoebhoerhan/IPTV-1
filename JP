@@ -55,7 +55,7 @@ http://45.179.140.242:8000/play/a0ht
 http://soberon.us:25461/bullnew/soberonnew/160
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-http://45.179.140.242:8000/play/a0k7
+http://soberon.us:25461/bullnew/soberonnew/163
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
 http://soberon.us:25461/bullnew/soberonnew/3034
@@ -147,6 +147,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
 http://soberon.us:25461/bullnew/soberonnew/2925
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
 
 
@@ -156,14 +162,11 @@ http://soberon.us:25461/bullnew/soberonnew/2925
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0RkrZH/Polish-20220223-203633161.jpg" group-title="24/7",JETIX
+http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w43576142.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
