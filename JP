@@ -57,6 +57,9 @@ http://soberon.us:25461/bullnew/soberonnew/160
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 http://45.179.140.242:8000/play/a0k7
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN ARG
+http://soberon.us:25461/bullnew/soberonnew/3034
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
 http://45.179.140.242:8000/play/a0ie
 
