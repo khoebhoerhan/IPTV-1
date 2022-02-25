@@ -213,7 +213,7 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBu_BFewK-N4bmWu3e97TFhnwSBlVbl2IM2A&usqp=CAU" group-title="INTERNACIONAL",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKVtpsJxPlita5akBId5RvePPlgs0n82Mcg&usqp=CAU" group-title="INTERNACIONAL",24 horas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKVtpsJxPlita5akBId5RvePPlgs0n82Mcg&usqp=CAU" group-title="INTERNACIONAL",24 HORAS
 http://soberon.us:25461/bullnew/soberonnew/536
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyikB2qVMbyH3xTaQtUMlnlJt5UroPvzoDA&usqp=CAU" group-title="INTERNACIONAL",EURONEWS
