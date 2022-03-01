@@ -130,7 +130,7 @@ http://soberon.us:25461/bullnew/soberonnew/3322
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jgv2Wh/Polish-20220222-162715991.jpg" group-title="24/7",LOS SIMPSON
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+http://soberon.us:25461/bullnew/soberonnew/2935
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
@@ -195,8 +195,8 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmkcENtxd1APuJ0mA7vUgT5Qltmqe4FpJCQ&usqp=CAU" group-title="USA",CBS
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
+http://soberon.us:25461/bullnew/soberonnew/219
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxfPwsh/images-2.png" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
