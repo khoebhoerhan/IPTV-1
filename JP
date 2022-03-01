@@ -10,13 +10,13 @@ http://soberon.us:25461/bullnew/soberonnew/459
 http://soberon.us:25461/bullnew/soberonnew/462
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+http://soberon.us:25461/bullnew/soberonnew/468
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JkkbCvN/Polish-20211208-000102915.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+http://soberon.us:25461/bullnew/soberonnew/469
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+http://soberon.us:25461/bullnew/soberonnew/473
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
