@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
-http://soberon.us:25461/bullnew/soberonnew/461
+https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
-http://soberon.us:25461/bullnew/soberonnew/459
+https://sv.spliktv.xyz/live/caster/PE/AMERICA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
-http://soberon.us:25461/bullnew/soberonnew/462
+https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
-http://soberon.us:25461/bullnew/soberonnew/468
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JkkbCvN/Polish-20211208-000102915.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
-http://soberon.us:25461/bullnew/soberonnew/469
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
-http://soberon.us:25461/bullnew/soberonnew/473
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
@@ -31,19 +31,19 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
-http://soberon.us:25461/bullnew/soberonnew/1117
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP TV
-http://soberon.us:25461/bullnew/soberonnew/1196
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4cdQPW/Polish-20220214-224514451.jpg" group-title="NACIONAL",PERU MAGICO
-http://soberon.us:25461/bullnew/soberonnew/466
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
-http://soberon.us:25461/bullnew/soberonnew/464
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
-http://soberon.us:25461/bullnew/soberonnew/463
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.179.140.242:8000/play/a0l8
@@ -52,13 +52,13 @@ http://45.179.140.242:8000/play/a0l8
 http://45.179.140.242:8000/play/a0ht
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4Vf4Tv/Polish-20211207-231513075.jpg" group-title="DEPORTES",TUDN
-http://soberon.us:25461/bullnew/soberonnew/160
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-http://soberon.us:25461/bullnew/soberonnew/163
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
-http://soberon.us:25461/bullnew/soberonnew/3034
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
 http://45.179.140.242:8000/play/a0ie
@@ -73,31 +73,31 @@ http://45.179.140.242:8000/play/a0je
 http://45.179.140.242:8000/play/a0jo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
-http://soberon.us:25461/bullnew/soberonnew/93
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZG19nR5/Polish-20211208-234003798.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
-http://soberon.us:25461/bullnew/soberonnew/3282
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://soberon.us:25461/bullnew/soberonnew/3281
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-http://soberon.us:25461/bullnew/soberonnew/1048
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcN19fk/Polish-20220130-235339391.jpg" group-title="DEPORTES",DIRECTV SPORTS PLUS
-http://soberon.us:25461/bullnew/soberonnew/1046
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
-http://soberon.us:25461/bullnew/soberonnew/56
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
-http://soberon.us:25461/bullnew/soberonnew/57
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
-http://soberon.us:25461/bullnew/soberonnew/3322
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 
@@ -130,13 +130,13 @@ http://soberon.us:25461/bullnew/soberonnew/3322
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jgv2Wh/Polish-20220222-162715991.jpg" group-title="24/7",LOS SIMPSON
-http://soberon.us:25461/bullnew/soberonnew/2935
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M62TbwC/Polish-20220222-160734410.jpg" group-title="24/7",DRAGON BALL Z
-http://soberon.us:25461/bullnew/soberonnew/2926
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
 
@@ -145,7 +145,7 @@ http://soberon.us:25461/bullnew/soberonnew/2926
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
-http://soberon.us:25461/bullnew/soberonnew/2925
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 
@@ -196,13 +196,13 @@ https://ntv.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
-http://soberon.us:25461/bullnew/soberonnew/219
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxfPwsh/images-2.png" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7qU1UjYcRGSw4RX8-RnJvUnNE4rE0Eqszg&usqp=CAU" group-title="INTERNACIONAL",CNN
-http://soberon.us:25461/bullnew/soberonnew/67
+http://clubtv.link/f26/lista1.php?c=3042
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXkAPmUaRbmCU7JE75z3KmVUMPnWJQE7xMg&usqp=CAU" group-title="INTERNACIONAL",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
@@ -214,7 +214,7 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKVtpsJxPlita5akBId5RvePPlgs0n82Mcg&usqp=CAU" group-title="INTERNACIONAL",24 HORAS
-http://soberon.us:25461/bullnew/soberonnew/536
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyikB2qVMbyH3xTaQtUMlnlJt5UroPvzoDA&usqp=CAU" group-title="INTERNACIONAL",EURONEWS
 http://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
