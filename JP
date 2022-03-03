@@ -201,22 +201,22 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxfPwsh/images-2.png" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7qU1UjYcRGSw4RX8-RnJvUnNE4rE0Eqszg&usqp=CAU" group-title="INTERNACIONAL",CNN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G7Vn7zg/images-4.jpg" group-title="INTERNACIONAL",CNN
 http://clubtv.link/f26/lista1.php?c=3042
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXkAPmUaRbmCU7JE75z3KmVUMPnWJQE7xMg&usqp=CAU" group-title="INTERNACIONAL",RT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vs7c71K/images.png" group-title="INTERNACIONAL",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/T13_icon_simulation-2021.png/revision/latest?cb=20210301143430" group-title="INTERNACIONAL",T13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37RPDPx/T13-icon-simulation-2021.png" group-title="INTERNACIONAL",T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBu_BFewK-N4bmWu3e97TFhnwSBlVbl2IM2A&usqp=CAU" group-title="INTERNACIONAL",TELESUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1HjDs0/images-3.jpg" group-title="INTERNACIONAL",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKVtpsJxPlita5akBId5RvePPlgs0n82Mcg&usqp=CAU" group-title="INTERNACIONAL",24 HORAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGjDfNv/images-2.jpg" group-title="INTERNACIONAL",24 HORAS
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyikB2qVMbyH3xTaQtUMlnlJt5UroPvzoDA&usqp=CAU" group-title="INTERNACIONAL",EURONEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHwmNZJ/images-1.jpg" group-title="INTERNACIONAL",EURONEWS
 http://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
