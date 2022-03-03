@@ -198,25 +198,25 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxfPwsh/images-2.png" group-title="INTERNACIONAL",FRANCE 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
 http://45.179.140.242:8000/play/a0jh
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G7Vn7zg/images-4.jpg" group-title="INTERNACIONAL",CNN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
 http://clubtv.link/f26/lista1.php?c=3042
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vs7c71K/images.png" group-title="INTERNACIONAL",RT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6pFfBS/Polish-20220302-194811854.png" group-title="INTERNACIONAL",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/37RPDPx/T13-icon-simulation-2021.png" group-title="INTERNACIONAL",T13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K55J7FS/Polish-20220302-194911854.png" group-title="INTERNACIONAL",T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c1HjDs0/images-3.jpg" group-title="INTERNACIONAL",TELESUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jz9jKCd/Polish-20220302-195011854.png" group-title="INTERNACIONAL",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGjDfNv/images-2.jpg" group-title="INTERNACIONAL",24 HORAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pXqFNk7/Polish-20220302-195111854.jpg" group-title="INTERNACIONAL",24 HORAS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHwmNZJ/images-1.jpg" group-title="INTERNACIONAL",EURONEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhNCm0D/Polish-20220302-195211854.png" group-title="INTERNACIONAL",EURONEWS
 http://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
