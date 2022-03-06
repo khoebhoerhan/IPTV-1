@@ -199,10 +199,10 @@ https://ntv.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
-http://45.179.140.242:8000/play/a0jh
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
-http://45.179.140.242:8000/play/a0i6
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6pFfBS/Polish-20220302-194811854.png" group-title="INTERNACIONAL",RT
 https://rt-esp.rttv.com:443/live/rtesp/playlist_2500Kb.m3u8
