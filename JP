@@ -147,10 +147,13 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0RkrZH/Polish-20220223-203633161.jpg" group-title="24/7",JETIX
+http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
@@ -160,10 +163,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0RkrZH/Polish-20220223-203633161.jpg" group-title="24/7",JETIX
-http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w43576142.m3u8
@@ -199,7 +199,7 @@ https://ntv.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
-
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
 
