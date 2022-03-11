@@ -225,6 +225,9 @@ http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhNCm0D/Polish-20220302-195211854.png" group-title="INTERNACIONAL",EURONEWS
 http://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pZpHSXv/Polish-20220310-195914670.jpg" group-title="INTERNACIONAL",CANAL 26
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1710148440_b2628000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
 
 
