@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/746
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/748
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
-https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/744
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
@@ -16,7 +16,7 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/761
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
@@ -25,22 +25,22 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/742
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/760
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP TV
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4cdQPW/Polish-20220214-224514451.jpg" group-title="NACIONAL",PERU MAGICO
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/739
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/763
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
 
@@ -85,16 +85,16 @@ http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_1452
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/888
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/889
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcN19fk/Polish-20220130-235339391.jpg" group-title="DEPORTES",DIRECTV SPORTS PLUS
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/907
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
 
@@ -103,10 +103,13 @@ http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_1452
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/899
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhZmpM0/Polish-20211210-010632002.jpg" group-title="DEPORTES",M. LA LIGA 1
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/900
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",M. LA LIGA 2
 
@@ -115,7 +118,7 @@ http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_1452
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/898
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
 
