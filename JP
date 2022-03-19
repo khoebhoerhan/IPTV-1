@@ -58,10 +58,10 @@ http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/763
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQ6Tf31/Polish-20220309-155139409.jpg" group-title="DEPORTES",FOX SPORTS
-http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001-avc1_899968=10009.m3u8?40
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
-http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/910
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
 
@@ -117,6 +117,9 @@ http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/900
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4JDGGMx/Polish-20211210-010710617.jpg" group-title="DEPORTES",M. LA LIGA 3
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNqy8J3/Polish-20211210-010745065.jpg" group-title="DEPORTES",M. LA LIGA 4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
 http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/898
 
@@ -124,6 +127,12 @@ http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/898
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm3hrj7/Polish-20211210-012225651.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzkpr47/Polish-20211210-012311223.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
@@ -134,6 +143,9 @@ http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/898
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRrMDDy/Polish-20220319-124714847.jpg" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
+http://access.digitalesnetworks.com:2082/cliente100100@flama/2232343537/893
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jgv2Wh/Polish-20220222-162715991.jpg" group-title="24/7",LOS SIMPSON
 
