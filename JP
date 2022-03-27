@@ -61,7 +61,7 @@ http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/696117.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
-
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
 
@@ -85,7 +85,7 @@ http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/696117.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
 
@@ -100,13 +100,13 @@ http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949720.ts
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
-
+http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949701.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949628.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949626.ts
+http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949627.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhZmpM0/Polish-20211210-010632002.jpg" group-title="DEPORTES",M. LA LIGA 1
 
@@ -181,10 +181,10 @@ http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
-https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w43576142.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME
 
