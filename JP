@@ -213,6 +213,9 @@ https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXyEhMTACvHvqHKcUJ3ZWnSWQ9KBT3X_pkQ&usqp=CAU" group-title="CINE",TNT
+http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/33947.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/12688.ts
 
