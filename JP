@@ -61,7 +61,7 @@ http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/696117.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
 
@@ -85,7 +85,7 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
 
@@ -214,7 +214,7 @@ https://ntv.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXyEhMTACvHvqHKcUJ3ZWnSWQ9KBT3X_pkQ&usqp=CAU" group-title="CINE",TNT
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/33947.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/12688.ts
