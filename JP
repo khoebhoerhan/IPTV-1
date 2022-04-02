@@ -49,7 +49,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/696117.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4Vf4Tv/Polish-20211207-231513075.jpg" group-title="DEPORTES",TUDN
 
@@ -94,19 +94,19 @@ http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/696117.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949720.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949701.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949628.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949627.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhZmpM0/Polish-20211210-010632002.jpg" group-title="DEPORTES",M. LA LIGA 1
 
@@ -121,22 +121,22 @@ http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949627.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949612.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949616.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 2
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949619.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vm3hrj7/Polish-20211210-012225651.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 3
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949620.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lzkpr47/Polish-20211210-012311223.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949721.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2252nY/Polish-20220129-192304128.jpg" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
 
@@ -166,10 +166,10 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/646505.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0RkrZH/Polish-20220223-203633161.jpg" group-title="24/7",JETIX
-http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
 
@@ -217,7 +217,7 @@ https://ntv.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
-http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/12688.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
