@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
-
+http://177.53.152.186:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
 
@@ -151,7 +151,7 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
-
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M62TbwC/Polish-20220222-160734410.jpg" group-title="24/7",DRAGON BALL Z
 
@@ -181,7 +181,7 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
-
+https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
 
