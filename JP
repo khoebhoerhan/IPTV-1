@@ -25,7 +25,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
-
+http://177.53.152.186:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
@@ -172,10 +172,13 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK 2
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
-
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKmNhC0/Polish-20211217-163931889.jpg" group-title="ANIME",TOONIZAKI
 
