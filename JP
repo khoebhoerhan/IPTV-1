@@ -22,7 +22,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Wil
 https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P989bbv/Polish-20211208-001709386.jpg" group-title="NOTICIAS",ATV+
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+https://d2b3qmftt7nn1c.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
 http://177.53.152.186:8000/play/a00t/index.m3u8
