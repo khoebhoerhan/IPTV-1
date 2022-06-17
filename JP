@@ -199,7 +199,7 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
-https://fujitv1.mov3.co/hls/fujitv.m3u8
+http://203.162.235.41:16904
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
@@ -211,7 +211,7 @@ https://nhk1.mov3.co/hls/nhk.m3u8
 https://ntv.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
-
+http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
 
