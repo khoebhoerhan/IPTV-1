@@ -214,7 +214,7 @@ https://ntv.mov3.co/hls/ntv.m3u8
 http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
-
+http://203.162.235.41:16906
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vjPBW9L/Polish-20220616-234603781.jpg" group-title="ANIME",AT-X
 https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
