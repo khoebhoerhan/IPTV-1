@@ -201,6 +201,9 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 http://203.162.235.41:16904
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
+http://203.162.235.41:16911
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
 
@@ -210,13 +213,19 @@ https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv.mov3.co/hls/ntv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYtWcf6/Polish-20220621-221019494.jpg" group-title="JAPON",BS NTV
+http://203.162.235.41:16912
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
 http://203.162.235.41:16908
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34kHZc5/Polish-20220621-221041817.jpg" group-title="JAPON",BS TV TOKYO
+http://203.162.235.41:16915
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
 http://203.162.235.41:16906
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vjPBW9L/Polish-20220616-234603781.jpg" group-title="ANIME",AT-X
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXyEhMTACvHvqHKcUJ3ZWnSWQ9KBT3X_pkQ&usqp=CAU" group-title="CINE",TNT
