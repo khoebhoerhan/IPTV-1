@@ -207,6 +207,9 @@ http://203.162.235.41:16911
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
+http://203.162.235.41:16913
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
 
 
@@ -224,6 +227,9 @@ http://203.162.235.41:16915
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
 http://203.162.235.41:16906
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
+http://203.162.235.41:16914
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
