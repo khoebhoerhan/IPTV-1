@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
-http://177.53.152.186:8000/play/a01x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
 
@@ -259,13 +259,13 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pXqFNk7/Polish-20220302-195111854.jpg" group-title="INTERNACIONAL",24 HORAS
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhNCm0D/Polish-20220302-195211854.png" group-title="INTERNACIONAL",EURONEWS
 http://euronews-euronews-spanish-2-mx.samsung.wurl.com:80/manifest/730c25dabdbf07ec40b04f491cb629f5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pZpHSXv/Polish-20220310-195914670.jpg" group-title="INTERNACIONAL",CANAL 26
-https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1710148440_b2628000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
 
