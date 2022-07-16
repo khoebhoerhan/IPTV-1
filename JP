@@ -199,7 +199,7 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
-https://fujitv2.mov3.co/hls/fujitv.m3u8
+http://203.162.235.41:16904
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
 http://203.162.235.41:16911
