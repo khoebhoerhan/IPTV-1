@@ -178,10 +178,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
 
@@ -190,7 +190,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
-https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w127554598.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
 
