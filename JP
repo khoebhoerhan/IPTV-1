@@ -33,8 +33,8 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP TV
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP
+http://190.108.83.142:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4cdQPW/Polish-20220214-224514451.jpg" group-title="NACIONAL",PERU MAGICO
 
