@@ -67,10 +67,10 @@ http://45.71.185.142:8500/play/a01n
 http://45.71.185.142:8500/play/a01o
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
-http://45.71.185.142:8500/play/a01e
+http://45.71.185.142:8500/play/a06x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
-
+http://45.71.185.142:8500/play/a01e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMVPGFr/Polish-20211207-165635044.jpg" group-title="DEPORTES",ESPN 2
 http://45.71.185.142:8500/play/a015
