@@ -48,6 +48,9 @@ http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 http://45.71.185.142:8500/play/a03b
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXdg24H/Polish-20220720-001349206.jpg" group-title="DEPORTES",ECDF
+http://45.71.185.142:8500/play/a006
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
 
 
