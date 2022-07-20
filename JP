@@ -211,13 +211,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 http://203.162.235.41:16904
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
-http://203.162.235.41:16911
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
-http://203.162.235.41:16913
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
 http://203.162.235.41:16901
@@ -226,19 +226,19 @@ http://203.162.235.41:16901
 https://ntv.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYtWcf6/Polish-20220621-221019494.jpg" group-title="JAPON",BS NTV
-http://203.162.235.41:16912
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
 http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/34kHZc5/Polish-20220621-221041817.jpg" group-title="JAPON",BS TV TOKYO
-http://203.162.235.41:16915
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
 http://203.162.235.41:16906
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
-http://203.162.235.41:16914
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 https://sub2.neetball.net/live/neet.m3u8
