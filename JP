@@ -220,7 +220,7 @@ https://tbs1.mov3.co/hls/tbs.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
-http://203.162.235.41:16901
+https://nhk2.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv.mov3.co/hls/ntv.m3u8
@@ -244,7 +244,7 @@ http://203.162.235.41:16906
 https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
-
+http://45.71.185.142:8500/play/a00g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 
